@@ -1,0 +1,3 @@
+git config --global user.name xucongyan
+git config --global user.email 838587329@qq.com
+https://github.com/xucongyan/xucongyan.github.io.git
